@@ -40,7 +40,7 @@ Contrary to popular belief, churn in this dataset is **consistent across the lif
 I utilized a **Random Forest Classifier** to capture non-linear relationships between features.
 | Metric | Score |
 | :--- | :--- |
-| **Accuracy** | 85% |
+| **Accuracy** | 82% |
 | **Primary Driver** | Late Payments (31% Importance) |
 | **Secondary Driver** | Monthly Charges (13% Importance) |
 
