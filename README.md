@@ -66,6 +66,6 @@ Shift focus from just "Onboarding" to "Continuous Engagement." Introduce rewards
 
 | Correlation Heatmap | Feature Importance |
 | :---: | :---: |
-| ![Heatmap](https://via.placeholder.com/400x300?text=Heatmap+Placeholder) | ![Importance](https://via.placeholder.com/400x300?text=Importance+Placeholder) |
+| ![Heatmap](Visualizations/893783d2-9f39-470b-9901-6feaebcd697e.png) | ![Importance](Visualizations/1e9502df-4d48-4498-b38b-f38792b0577d.png) |
 
 ---
