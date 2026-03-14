@@ -69,3 +69,6 @@ Shift focus from just "Onboarding" to "Continuous Engagement." Introduce rewards
 | ![Heatmap](Visualizations/893783d2-9f39-470b-9901-6feaebcd697e.png) | ![Importance](Visualizations/1e9502df-4d48-4498-b38b-f38792b0577d.png) |
 
 ---
+🤝 Contact
+Hadeer Elkady
+[[LinkedIn Profile Link](https://www.linkedin.com/in/hadeeralkady/)] | [hadeeralkady606@gmail.com]
